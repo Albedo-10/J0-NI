@@ -1,0 +1,21 @@
+#teach: palavra = significado
+Ensina uma nova palavra e seu significado à J0-NI.
+#input: palavra
+Consulta se J0-NI conhece o significado de uma palavra.
+#talk
+Faz J0-NI formar uma frase simples com base no que já sabe.
+
+Exemplo de saída:
+"Aprendi que 'amizade' é 'quando duas pessoas gostam uma da outra'."
+
+#activity: revisão
+Faz J0-NI revisar frases que ela sabe sobre si mesma, você ou sentimentos.
+
+Mostra até 5 frases aprendidas e 3 que ainda precisam de explicação.
+#activity: sentimentos
+Lista sentimentos que J0-NI já conhece ou ainda não entende.
+
+Filtra o vocabulário por palavras que contêm "sentimento".
+#exit
+Encerra o programa e salva a memória antes de sair.
+
